@@ -1,6 +1,6 @@
 package br.dio.basecamp;
 
-public class Main {
+public class aula2 {
     public static void main(String[] args) {
 
         byte b1 = 10;
